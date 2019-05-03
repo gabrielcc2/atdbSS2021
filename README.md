@@ -6,3 +6,5 @@ This project includes a small programming homework for the course Advanced Topic
 The task consists of employing a neural network for performing range searches on a dataset.
 
 Material will be added soon.
+
+Contact: campero@ovgu.de.
