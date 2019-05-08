@@ -11,16 +11,18 @@ In detail, your task will be as follows:
 
 1. *Data preparation:* To get acquainted with the dataset (the TPC-H lineitem table at scale factor 1), you will carry out a small data preparation task.
 
-2. *Model fitting:* Here you will fit 2 models: A scikit-learn linear regression model, and a neural network. 
+2. *Model fitting:* Here you will fit 2 models to be able to do range searches on the selected data. You will compare a scikit-learn linear regression model, and a neural network. 
 
 3. *Inference:* Here you will understand the predictions of your models, comparing them to a provided pre-trained network.
 
 4. *Competitive inference for neural networks:* Here you will load a provided pre-trained network into a C++ program, such that inference be done using SIMD instructions, this relies in PocketTensor. Based on this competitive inference process, you will evaluate how the neural network performs for range search compared to one traditional B tree implementation.
 
-Overall you will learn about one possible application of the Software 2.0. idea, by using neural networks to support range searches. You will assess experimentally the pros and cons of a naive approach. Hopefully the task will motivate you to bring this innovative perspective into more everyday tasks.
-
 *You will use:* Python, Scikit-Learn, Keras, PocketTensor (https://github.com/GValiente/pocket-tensor).
 *With tooling:* Anaconda, Jupyter Notebooks.
+
+**Takeaways:**
+
+Overall you will learn about one possible application of the Software 2.0. idea, by using neural networks to support range searches. You will assess experimentally the pros and cons of a naive approach. Hopefully the task will motivate you to bring this innovative perspective into more everyday tasks.
 
 If the task turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using AutoKeras (https://autokeras.com/start/) for the architecture search task.
 
