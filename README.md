@@ -9,11 +9,8 @@ The task consists of employing a neural network for performing range searches on
 Whether the goal is to optimize a data system to support machine learning tasks, or to employ machine learning models in developing efficient data components, there is a rich mix of research  at the intersection of machine learning and data management. From query optimizers based on deep reinforcement learning, to querying databases with natural language, there are many creative ways to extend how databases are built, by using machine learning. In this task we consider a small example of this, by experimenting one simple approach to support range queries with machine learning models.
 
 <p align="center">
-![Image of Learned Index Structures](http://dsail.csail.mit.edu/wp-content/uploads/2018/09/LearnedIndex.jpg)
-
-*Though your work is based on the idea of Learned Index Structures, as depicted in the image from the original paper<sup>1</sup>, this programming task represents a highly simplified approach.*  
+  <img src="http://dsail.csail.mit.edu/wp-content/uploads/2018/09/LearnedIndex.jpg?raw=true" alt="Though your work is based on the idea of Learned Index Structures, as depicted in the image from the original paper, this programming task represents a highly simplified approach."/><sup>1</sup>
 </p>
-
 
 In detail, your tasks will be as follows:
 
@@ -29,7 +26,6 @@ In detail, your tasks will be as follows:
 
 *With tooling:* Anaconda, Jupyter Notebooks.
 
-
 **Takeaways:**
 
 Overall you will learn about one possible application of the Software 2.0. idea, by using neural networks to support range searches. You will assess experimentally the pros and cons of a naive approach. Hopefully the task will motivate you to bring this innovative perspective into more everyday tasks.
@@ -38,6 +34,8 @@ If the task turns out to be interesting for you & your performance demonstrates 
 
 Material will be added soon.
 
-1: Kraska, Tim, Alex Beutel, Ed H. Chi, Jeffrey Dean, and Neoklis Polyzotis. "The case for learned index structures." In Proceedings of the 2018 International Conference on Management of Data, pp. 489-504. ACM, 2018.
-
 Contact: campero@ovgu.de.
+
+**References:**
+
+1: Kraska, Tim, Alex Beutel, Ed H. Chi, Jeffrey Dean, and Neoklis Polyzotis. "The case for learned index structures." In Proceedings of the 2018 International Conference on Management of Data, pp. 489-504. ACM, 2018.
