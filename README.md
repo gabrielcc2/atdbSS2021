@@ -1,6 +1,6 @@
 # atdbSS2019- Range search with neural networks
 
-This project includes a small programming homework for the course Advanced Topic in Databases.
+This repository includes a small programming homework for the course Advanced Topic in Databases (http://www.dbse.ovgu.de/Lehre/ATDB.html).
 
 The task consists of employing a neural network for performing range searches on a dataset.
 
