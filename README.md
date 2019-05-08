@@ -1,4 +1,4 @@
-# atdbSS2019- Range search with neural networks
+# Range search with neural networks- atdbSS2019 
 
 This repository includes a small programming homework for the course Advanced Topic in Databases (http://www.dbse.ovgu.de/Lehre/ATDB.html).
 
