@@ -19,6 +19,7 @@ In detail, your task will be as follows:
 4. *Competitive inference for neural networks:* Here you will load a provided pre-trained network into a C++ program, such that inference be done using SIMD instructions, this relies in PocketTensor. Based on this competitive inference process, you will evaluate how the neural network performs for range search compared to one traditional B tree implementation.
 
 *You will use:* Python, Scikit-Learn, Keras, PocketTensor (https://github.com/GValiente/pocket-tensor).
+
 *With tooling:* Anaconda, Jupyter Notebooks.
 
 **Takeaways:**
