@@ -11,7 +11,7 @@ Whether the goal is to optimize a data system to support machine learning tasks,
 <p align="center">
   <img src="http://dsail.csail.mit.edu/wp-content/uploads/2018/09/LearnedIndex.jpg?raw=true">
   
-Though your task will be inspired in the idea of Learned Index Structures, as depicted in the image from the original paper, this programming task represents a highly simplified approach. 
+Though your task will be inspired by the idea of Learned Index Structures, as depicted in the image from the original paper, this programming task represents a highly simplified approach.
 
 Here is the reference for the original paper: Kraska, Tim, Alex Beutel, Ed H. Chi, Jeffrey Dean, and Neoklis Polyzotis. "The case for learned index structures." In Proceedings of the 2018 International Conference on Management of Data, pp. 489-504. ACM, 2018.
 
