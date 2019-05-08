@@ -9,7 +9,9 @@ The task consists of employing a neural network for performing range searches on
 Whether the goal is to optimize a data system to support machine learning tasks, or to employ machine learning models in developing efficient data components, there is a rich mix of research  at the intersection of machine learning and data management. From query optimizers based on deep reinforcement learning, to querying databases with natural language, there are many creative ways to extend how databases are built, by using machine learning. In this task we consider a small example of this, by experimenting one simple approach to support range queries with machine learning models.
 
 <p align="center">
-  <img src="http://dsail.csail.mit.edu/wp-content/uploads/2018/09/LearnedIndex.jpg?raw=true" alt="Though your work is based on the idea of Learned Index Structures, as depicted in the image from the original paper, this programming task represents a highly simplified approach."/><sup>1</sup>
+  <img src="http://dsail.csail.mit.edu/wp-content/uploads/2018/09/LearnedIndex.jpg?raw=true">
+  
+Though your task will be inspired in the idea of Learned Index Structures, as depicted in the image from the original paper<sup>1</sup>, this programming task represents a highly simplified approach.
 </p>
 
 In detail, your tasks will be as follows:
