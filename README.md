@@ -1,17 +1,17 @@
 # Range search with neural networks- atdbSS2019 
 
-This repository includes a small programming homework for the course Advanced Topic in Databases (http://www.dbse.ovgu.de/Lehre/ATDB.html).
+This repository includes a small programming homework for the summer semester 2019 offering of the course Advanced Topics in Databases (http://www.dbse.ovgu.de/Lehre/ATDB.html), from the University of Magdeburg.
 
-The task consists of employing a neural network for performing range searches on a dataset.
+The task consists of testing a neural network for performing range searches on a dataset.
 
 **Task overview:**
 
-Whether the goal is to optimize a data system to support machine learning tasks, or to employ machine learning models in developing efficient data components, there is a rich mix of research  at the intersection of machine learning and data management. From query optimizers based on deep reinforcement learning, to querying databases with natural language, there are many creative ways to extend how databases are built, by using machine learning. In this task we consider a small example of this, by experimenting one simple approach to support range queries with machine learning models.
+Whether the goal is to optimize a data system to support machine learning tasks, or to employ machine learning models in developing efficient data components, there is a rich mix of research  at the intersection of machine learning and data management. From query optimizers based on deep reinforcement learning, to querying databases with natural language, there are many creative ways to extend how databases are built, by using machine learning. In this task we consider a small example of this, by experimenting a simplified approach to support range queries with machine learning models.
 
 <p align="center">
   <img src="http://dsail.csail.mit.edu/wp-content/uploads/2018/09/LearnedIndex.jpg?raw=true">
   
-Though your task will be inspired by the idea of Learned Index Structures, as depicted in the image from the original paper, this programming task represents a highly simplified approach.
+Though this task is inspired by the idea of *Learned Index Structures*, as depicted in the image from the original paper, this programming task represents a highly simplified evaluation of the idea.
 
 Here is the reference for the original paper: Kraska, Tim, Alex Beutel, Ed H. Chi, Jeffrey Dean, and Neoklis Polyzotis. "The case for learned index structures." In Proceedings of the 2018 International Conference on Management of Data, pp. 489-504. ACM, 2018.
 
@@ -25,7 +25,7 @@ In detail, your tasks will be as follows:
 
 3. *Inference:* Here you will understand the predictions of your models, comparing them to a provided pre-trained network.
 
-4. *Competitive inference for neural networks:* Here you will load a provided pre-trained network into a C++ program, such that inference be done using SIMD instructions, this relies in PocketTensor. Based on this competitive inference process, you will evaluate how the neural network performs for range search compared to one traditional B tree implementation.
+4. *Competitive inference for neural networks:* Here you will load a provided pre-trained network into a C++ program, such that inference be done using SIMD instructions. This relies on PocketTensor. Based on this competitive inference process, you will evaluate how your neural network performs for range search compared to a traditional B tree implementation.
 
 *You will use:* Python, Scikit-Learn, Keras, PocketTensor (https://github.com/GValiente/pocket-tensor).
 
@@ -33,12 +33,10 @@ In detail, your tasks will be as follows:
 
 **Takeaways:**
 
-Overall you will learn about one possible application of the Software 2.0. idea, by using neural networks to support range searches. You will assess experimentally the pros and cons of a naive approach. Hopefully the task will motivate you to bring this innovative perspective into more everyday tasks.
+Overall you will learn about one possible application of the Software 2.0. idea, by using a learned model to support range searches. You will assess experimentally the pros and cons of this naive approach, and will be able to think on how to improve it. Hopefully this assignment will motivate you to seek novel applications of machine learning in more everyday software tasks.
 
-If the task turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using AutoKeras (https://autokeras.com/start/) for the architecture search task, or alternatively on improvements to the inference process.
+If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using AutoKeras (https://autokeras.com/start/) for the architecture search task, or alternatively on improvements to the inference process.
 
 Material will be added soon.
 
 Contact: campero@ovgu.de.
-
-
