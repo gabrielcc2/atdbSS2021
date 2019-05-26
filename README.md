@@ -1,8 +1,8 @@
-# Range search with neural networks- atdbSS2019 
+# Range search with learned models- atdbSS2019 
 
 This repository includes a small programming homework for the summer semester 2019 offering of the course Advanced Topics in Databases (http://www.dbse.ovgu.de/Lehre/ATDB.html), at the University of Magdeburg.
 
-The task consists of testing a neural network for performing range searches on a dataset.
+The task consists of testing some learned models, including a neural network for performing range searches on a dataset.
 
 **Task overview:**
 
