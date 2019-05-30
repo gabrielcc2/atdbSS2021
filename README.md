@@ -4,7 +4,11 @@ This repository includes a small programming homework for the summer semester 20
 
 The task consists of testing learned models for performing range searches on a dataset.
 
-It is available as a colab notebook, here: https://github.com/gabrielcc2/atdbSS2019/blob/master/Range_search_with_learned_models_ATDBSS2019.ipynb
+**The task is now available:**
+
+It is available as a Colab notebook, here: https://github.com/gabrielcc2/atdbSS2019/blob/master/Range_search_with_learned_models_ATDBSS2019.ipynb
+
+To work on the assignment, open the notebook in Colab. You might also need to save a copy to your Google drive, such that you can store some temporary files.
 
 **Task overview:**
 
@@ -38,9 +42,5 @@ This concludes the assigment.
 Overall you will learn about one possible application of the Software 2.0. idea, by using a learned model to support range searches. You will assess experimentally the pros and cons of this naive approach, and will be able to think on how to improve it. Hopefully this assignment will motivate you to seek novel applications of machine learning in more everyday software tasks.
 
 If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using AutoKeras (https://autokeras.com/start/) and a reinforcement learning model for the architecture search task, or alternatively to collaborate on improvements to the inference process.
-
-**The task is now available in:**
-
-https://github.com/gabrielcc2/atdbSS2019/blob/master/Range_search_with_learned_models_ATDBSS2019.ipynb (Open in Colab)
 
 Contact: campero@ovgu.de.
