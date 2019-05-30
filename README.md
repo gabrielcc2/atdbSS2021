@@ -4,7 +4,7 @@ This repository includes a small programming homework for the summer semester 20
 
 The task consists of testing learned models for performing range searches on a dataset.
 
-It is available as a colab repository, here: https://github.com/gabrielcc2/atdbSS2019/blob/master/Range_search_with_learned_models_ATDBSS2019.ipynb
+It is available as a colab notebook, here: https://github.com/gabrielcc2/atdbSS2019/blob/master/Range_search_with_learned_models_ATDBSS2019.ipynb
 
 **Task overview:**
 
