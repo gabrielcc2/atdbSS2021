@@ -39,7 +39,7 @@ Overall you will learn about one possible application of the Software 2.0. idea,
 
 If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using AutoKeras (https://autokeras.com/start/) and a reinforcement learning model for the architecture search task, or alternatively to collaborate on improvements to the inference process.
 
-**The task is now available in: ***
+**The task is now available in:**
 https://github.com/gabrielcc2/atdbSS2019/blob/master/Range_search_with_learned_models_ATDBSS2019.ipynb
 
 Contact: campero@ovgu.de.
