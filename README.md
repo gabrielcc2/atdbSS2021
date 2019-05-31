@@ -25,13 +25,13 @@ Here is the reference for the original paper: Kraska, Tim, Alex Beutel, Ed H. Ch
 
 In detail, your tasks will be as follows:
 
-1. *Data preparation:* To get acquainted with the dataset (the TPC-H lineitem table at scale factor 1), you will carry out some small data preparation tasks. Here you will understand a bit about the role of cummulative distribution functions to support learned index structures.
+1. *Data preparation:* To get acquainted with the dataset (the TPC-H lineitem table at scale factor 0.01), you will carry out some small data preparation tasks. Here you will understand a bit about the role of cummulative distribution functions to support learned index structures.
 
-2. *Model fitting:* Here you will fit several models (linear, kernel, decision tree, etc) to be able to do range searches on the selected data. You will compare scikit-learn models, against Keras-built neural networks, in their accuracy and memory footprint. You will build a recursive model index in this task.
+2. *Model fitting:* Here you will fit several models (linear, kernel, decision tree, etc) to be able to do range searches on the selected data. You will compare scikit-learn models, against Keras-built neural networks, in their accuracy and memory footprint. You will build a very basic recursive model index in this task. 
 
 This concludes the assigment.
 
-3. As an optional task (which is not part of the assignment), you can explore how they models perform in the search task. Here you will load a provided pre-trained network into a C++ program, such that inference be done using SIMD instructions. This relies on PocketTensor. Based on this competitive inference process, you will evaluate how your neural network performs for range search compared to a traditional B tree implementation.
+3. As an optional task (which is not part of the assignment), you can explore how the models perform in the search task. Here you will load a provided pre-trained network into a C++ program, such that inference can be done using SIMD instructions. This relies on PocketTensor. Based on this competitive inference process, you will evaluate how your neural network performs for range search compared to a traditional B-tree implementation.
 
 *You will use:* Python, Scikit-Learn, Keras, PocketTensor (https://github.com/GValiente/pocket-tensor).
 
@@ -41,6 +41,6 @@ This concludes the assigment.
 
 Overall you will learn about one possible application of the Software 2.0. idea, by using a learned model to support range searches. You will assess experimentally the pros and cons of this naive approach, and will be able to think on how to improve it. Hopefully this assignment will motivate you to seek novel applications of machine learning in more everyday software tasks.
 
-If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using AutoKeras (https://autokeras.com/start/) and a reinforcement learning model for the architecture search task, or alternatively to collaborate on improvements to the inference process.
+If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using AutoKeras (https://autokeras.com/start/) and a reinforcement learning model for the architecture search task, in larger and more complex datasets (with variable CDFs), or alternatively to collaborate on improvements to the inference process.
 
 Contact: campero@ovgu.de.
