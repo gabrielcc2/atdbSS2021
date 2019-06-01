@@ -35,7 +35,7 @@ This concludes the assigment.
 
 *You will use:* Python, Scikit-Learn, Keras, PocketTensor (https://github.com/GValiente/pocket-tensor).
 
-*With tooling:* Colaboratory, Seaborn.
+*With tooling:* Colaboratory, Pandas, Seaborn.
 
 **Takeaways:**
 
