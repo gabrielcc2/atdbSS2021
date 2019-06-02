@@ -41,6 +41,6 @@ This concludes the assigment.
 
 Overall you will learn about one possible application of the Software 2.0. idea, by using a learned model to support range searches. You will assess experimentally the pros and cons of this naive approach, and will be able to think on how to improve it. Hopefully this assignment will motivate you to seek novel applications of machine learning in more everyday software tasks.
 
-If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using AutoKeras (https://autokeras.com/start/) and a reinforcement learning model for the architecture search task, in larger and more complex datasets (with variable CDFs), or alternatively to collaborate on improvements to the inference process.
+If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using tools like Tune (https://ray.readthedocs.io/en/latest/tune.html), AutoKeras (https://autokeras.com/start/) or a reinforcement learning model for the architecture search task, in larger and more complex datasets (with variable CDFs), or alternatively to collaborate on improvements to the inference process.
 
 Contact: campero@ovgu.de.
