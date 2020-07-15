@@ -1,12 +1,12 @@
-# Range search with learned models- atdbSS2019 
+# Range search with learned models- atdbSS2020 
 
-This repository includes a small programming homework for the summer semester 2019 offering of the course Advanced Topics in Databases (http://www.dbse.ovgu.de/Lehre/ATDB.html), at the University of Magdeburg.
+This repository includes a small programming homework for the summer semester 2020 offering of the course Advanced Topics in Databases (http://www.dbse.ovgu.de/Lehre/ATDB.html), at the University of Magdeburg.
 
 The task consists of testing learned models for performing range searches on a dataset.
 
 **The task is now available:**
 
-It is available as a Colab notebook, here: https://github.com/gabrielcc2/atdbSS2019/blob/master/Range_search_with_learned_models_ATDBSS2019.ipynb
+It is available as a Colab notebook, here: https://github.com/gabrielcc2/atdbSS2020/blob/master/Range_search_with_learned_models_ATDBSS2020.ipynb
 
 To work on the assignment, open the notebook in Colab. You might also need to save a copy to your Google drive, such that you can store some temporary files.
 
@@ -37,10 +37,12 @@ This concludes the assigment.
 
 *With tooling:* Colaboratory, Pandas, Seaborn.
 
+Contact: campero@ovgu.de, to learn about this task.
+
 **Takeaways:**
 
 Overall you will learn about one possible application of the Software 2.0. idea, by using a learned model to support range searches. You will assess experimentally the pros and cons of this naive approach, and will be able to think on how to improve it. Hopefully this assignment will motivate you to seek novel applications of machine learning in more everyday database and software tasks.
 
-If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using tools like Tune (https://ray.readthedocs.io/en/latest/tune.html), AutoKeras (https://autokeras.com/start/) or a reinforcement learning model for the architecture search task, in larger and more complex datasets (with variable CDFs), or alternatively to collaborate on improvements to the inference process.
+If this programming assignment turns out to be interesting for you & your performance demonstrates such interest, you will be invited to collaborate with us in using tools like AutoKeras (https://autokeras.com/start/) or a reinforcement learning model for the architecture search task, in larger and more complex datasets (with variable CDFs), or alternatively to collaborate on improvements to the inference process.
 
 Contact: campero@ovgu.de.
